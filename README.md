@@ -8,4 +8,4 @@ You can create operations like CRUD in the todo list
 C=>Create
 R=>Remove
 U=>Update
-D+>Delete
+D=>Delete
